@@ -7,9 +7,8 @@ Open LAP to NF is a sollution to print in NF ( aka Nota fiscal)
 
 ## python
 
-matplotlib and opencv
+matplotlib, opencv, pytesseract
 
-pip3 install matplotlib opencv-python
+pip3 install matplotlib opencv-python pytesseract
 
-
-## usen as example an jpg with a plate 
+## using as example an jpg with a local plate 
