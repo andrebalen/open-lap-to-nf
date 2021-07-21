@@ -1,3 +1,3 @@
 git add *
-git commit -m 'primeiros testes e experiencias'
+git commit -m 'adicionando comportamento dinamico para cameras'
 git push -u origin master
